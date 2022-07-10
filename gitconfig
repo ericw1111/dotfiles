@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ericwilli@gmail.com
+	name = Eric Williamson
